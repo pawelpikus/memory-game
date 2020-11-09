@@ -56,3 +56,8 @@ body {
 .front-face{
     transform: rotateY(180deg);
 }
+
+button{
+    display: block;
+    s
+}
